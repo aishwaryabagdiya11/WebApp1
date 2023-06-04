@@ -51,8 +51,8 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello kartik kiran kasar 9823346181</h1>
-        <p>I AM FREE FIRE ADDICTED & i do not study well. </p>
+        <h1>Hello</h1>
+        <p>your information deleted from web. </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
