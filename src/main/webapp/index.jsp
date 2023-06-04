@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello kartik kasar </h1>
-        <p>I AM FREE FIRE ADDICTED . </p>
+        <p>I AM FREE FIRE ADDICTED & i do not study well. </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
